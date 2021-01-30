@@ -15,3 +15,4 @@
 
 ### [GitHub](https://github.com/ginogalarzac/cero)
 
+    Juro que enviare este archivo via SSH
